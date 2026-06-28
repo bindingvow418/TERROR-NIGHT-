@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312e6g5s4gn5h3a66eo6uipktc3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
-  </a>
-</p>
+[![Spotify Status](https://spotify-github-profile.kittinanx.com/api/view?uid=312e6g5s4gn5h3a66eo6uipktc3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
